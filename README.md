@@ -1,7 +1,7 @@
 
 ## Greetings, GitHub Viewer!
 
-# Hi there 👋, I'm Saksham Arora, your fellow Data Scientist
+# Hi there 👋, I'm Saksham Arora, your fellow Data Scientist 👨‍🏫
 
 Welcome to my professional Data Science and AI portfolio!  
 Here, I explore the fascinating world of **Data Science**, **Machine Learning**, **Generative AI**, and **Advanced Data Analytics**.  
@@ -42,7 +42,6 @@ print('Welcome to the world of Data Science, Analytics, and Machine Learning!')
 ### ⚡ Fun fact:
 - Did you know? **99.9% of data in existence was created in the last 2 years!** Data is truly the new oil, and I’m here to refine it!
 
----
 
 <!-- ### 🔧 **Technical Skills:**
 - 🐍 **Python** (4+ years)
@@ -81,7 +80,6 @@ print('Welcome to the world of Data Science, Analytics, and Machine Learning!')
   </tr>
 </table>
 
----
 
 ### 📂 **Current Projects & Repositories:**
 - **🔮 [Loss Forecasting Model](#):** Developing predictive models for credit loss and delinquency using time series analysis and machine learning.
