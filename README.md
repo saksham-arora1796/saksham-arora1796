@@ -32,8 +32,8 @@ print('Welcome to the world of Data Science, Analytics, and Machine Learning!')
 - 🧠 The impact of AI in industries like **finance**, **customer support**, and beyond!
 
 ### 📫 How to reach me:
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?&logo=Gmail&logoColor=white)](mailto:arorasaksham96@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/sakshamarora96/)  
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?&logo=Gmail&logoColor=white)](mailto:arorasaksham96@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/sakshamarora96/)  
+
 🌐 [Website: arorasaksham.com](https://arorasaksham.com)
 
 ### 😄 Pronouns:
@@ -64,7 +64,7 @@ print('Welcome to the world of Data Science, Analytics, and Machine Learning!')
 - **🔮 [Loss Forecasting Model](#):** Developing predictive models for credit loss and delinquency using time series analysis and machine learning.
 - **🧠 [Generative AI & LLM Modeling](#):** Leveraging large language models for customer sentiment analysis, NLP, and financial text classification.
 
----
+Feel free to explore my repositories, contribute, or connect with me! Together, let’s push the boundaries of **AI**, **Data Science**, and **Technology**.
 
 <!-- ### 🌟 GitHub Stats
 
@@ -74,13 +74,12 @@ print('Welcome to the world of Data Science, Analytics, and Machine Learning!')
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sakshamarora&theme=github-dark" alt="Saksham Arora" /></p> -->
 
----
+
 <!-- 
 ### 🏆 **GitHub Trophies**
 
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakshamarora&theme=gruvbox" alt="Saksham Arora" /></a></p> -->
 
----
 
-Feel free to explore my repositories, contribute, or connect with me!  
-Together, let’s push the boundaries of **AI**, **Data Science**, and **Technology**.
+
+
