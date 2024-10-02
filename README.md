@@ -66,19 +66,19 @@ print('Welcome to the world of Data Science, Analytics, and Machine Learning!')
 
 ---
 
-### 🌟 GitHub Stats
+<!-- ### 🌟 GitHub Stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshamarora&layout=compact&theme=github_dark&langs_count=5&hide=javascript,html,css" alt="Saksham Arora" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sakshamarora&show_icons=true&theme=github_dark&count_private=true&hide=issues" alt="Saksham Arora" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sakshamarora&theme=github-dark" alt="Saksham Arora" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sakshamarora&theme=github-dark" alt="Saksham Arora" /></p> -->
 
 ---
-
+<!-- 
 ### 🏆 **GitHub Trophies**
 
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakshamarora&theme=gruvbox" alt="Saksham Arora" /></a></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakshamarora&theme=gruvbox" alt="Saksham Arora" /></a></p> -->
 
 ---
 
