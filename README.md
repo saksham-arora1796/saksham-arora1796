@@ -11,7 +11,7 @@ Thanks for visiting my profile!
 print('Welcome to the world of Data Science, Analytics, and Machine Learning!')
 ```
 
-<p><img src="https://komarev.com/ghpvc/?username=sakshamarora&label=Profile%20views&color=brightgreen&style=flat-square" alt="sakshamarora" /></p>
+<p><img src="https://komarev.com/ghpvc/?username=saksham-arora1796&label=Profile%20views&color=brightgreen&style=flat-square" alt="saksham-arora1796" /></p>
 
 
 ### 💻 What I'm currently working on:
@@ -32,20 +32,19 @@ print('Welcome to the world of Data Science, Analytics, and Machine Learning!')
 - 🧠 The impact of AI in industries like **finance**, **customer support**, and beyond!
 
 ### 📫 How to reach me:
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?&logo=Gmail&logoColor=white)](mailto:arorasaksham96@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/sakshamarora96/)  
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?&logo=Gmail&logoColor=white)](mailto:arorasaksham96@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/sakshamarora96/) [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Website-brightgreen)](https://arorasaksham.com)
 
-🌐 [Website: arorasaksham.com](https://arorasaksham.com)
+<!-- 🌐 [Website: arorasaksham.com](https://arorasaksham.com) -->
 
-### 😄 Pronouns:
-- He/Him
+<!-- ### 😄 Pronouns:
+- He/Him -->
 
 ### ⚡ Fun fact:
-- Did you know? **99.9% of data in existence was created in the last 2 years!**  
-  Data is truly the new oil, and I’m here to refine it!
+- Did you know? **99.9% of data in existence was created in the last 2 years!** Data is truly the new oil, and I’m here to refine it!
 
 ---
 
-### 🔧 **Technical Skills:**
+<!-- ### 🔧 **Technical Skills:**
 - 🐍 **Python** (4+ years)
 - 📊 **SQL** (Advanced)
 - 💻 **R** (Some experience)
@@ -56,7 +55,31 @@ print('Welcome to the world of Data Science, Analytics, and Machine Learning!')
 ### 💾 **Databases for Data Science**:
 - 🛠 **PostgreSQL**, **Vertica**, **MongoDB** (Data Science optimized)
 - 📊 **SQL** for structured data queries
+- 💾 Experience with **NoSQL** for large datasets and unstructured data -->
+
+<table>
+  <tr>
+    <td>
+
+### 🔧 **Technical Skills:**
+- 🐍 **Python** (4+ years)
+- 📊 **SQL** (Advanced)
+- 💻 **R** (Some experience)
+- 🤖 **Machine Learning & Generative AI**
+- 📚 **Text Analytics**, **Natural Language Processing** (NLP)
+- 📊 **Data Visualization**: Tableau, Advanced Excel
+
+    </td>
+    <td>
+
+### 💾 **Databases for Data Science**:
+- 🛠 **PostgreSQL**, **Vertica**, **MongoDB** (Data Science optimized)
+- 📊 **SQL** for structured data queries
 - 💾 Experience with **NoSQL** for large datasets and unstructured data
+
+    </td>
+  </tr>
+</table>
 
 ---
 
